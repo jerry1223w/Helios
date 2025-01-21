@@ -1,7 +1,7 @@
 
 
-BUTTON_1 = 0
-BUTTON_2 = 1
+BUTTON_1 = 
+BUTTON_2 = 
 BUTTON_3 = 2
 BUTTON_4 = 3
 BUTTON_5 = 4
@@ -40,7 +40,7 @@ class xb:
     Y = 13
     B = 14
     A = 15
-    X = 16
+    X = 350
     RS_X = 20
     RS_Y = 21
     LS_X = 22
